@@ -2,7 +2,8 @@
 
 **Aegis Disaster Command** is a next-generation orbital monitoring and disaster response platform. By fusing real-time satellite intelligence, social sentiment analysis, and generative AI, Aegis provides emergency responders and government agencies with a unified operating picture for global crisis management.
 
-![Aegis Command Center](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=2070)
+![Aegis Command Center](<img width="1903" height="850" alt="Screenshot 2026-04-25 171044" src="https://github.com/user-attachments/assets/28591914-2c7c-4d1c-b2fa-e650a7723b7d" />
+)
 *Note: Representative visualization of the Aegis high-fidelity command interface.*
 
 ## 🚀 Key Modules
