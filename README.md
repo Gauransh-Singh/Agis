@@ -22,14 +22,8 @@ Scans global social platforms to extract ground-truth reports from citizens in t
 ### 🚛 Response Hub (Logistics AI)
 Automatically generates tactical logistics plans, mapping out safe zones, trauma-ready hospitals, and critical resource requirements for identified disaster nodes.
 
-### 🏗️ Prevention Desk
-Generates proactive disaster prevention strategies and infrastructure hardening blueprints. Includes readiness scoring and tactical checklists for government intervention.
-
-### ☁️ Cloud Resilience Monitor
-Tracks the health and status of multi-cloud infrastructure (GCP, AWS, Azure) to ensuring that the command center remains operational even when regional data centers are compromised by disasters.
-
 ### ⏳ Data Archives (Time Machine)
-Enables post-incident playback and historical data analysis. Uses predictive modeling to simulate future catastrophe scenarios and test response efficacy.
+Enables post-incident playback and historical data analysis. 
 
 ## 🛠️ Technology Stack
 
